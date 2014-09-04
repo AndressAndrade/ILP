@@ -7,3 +7,4 @@ if a > 0 and b > 0 and c > 0:
 		print("O perimetro do triangulo e:", perimetro)
 	else:
 		print("Nao e triangulo")
+		
