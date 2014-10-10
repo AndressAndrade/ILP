@@ -12,8 +12,8 @@ int main()
 		printf("\n");		
 		for(j = 0; j < n; j++)
 		{
-			scanf("%i", &mtrx[i][j]);
-			printf("%i", mtrx[i][j]);
+			scanf(" %i ", &mtrx[i][j]);
+			printf(" %i", mtrx[i][j]);
 		}
 	}
 	return 0;
